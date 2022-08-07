@@ -1,4 +1,4 @@
-### Hi there 👋
+### K3RN3L PAN1C
 
 <!--
 **k3rn3lpanicc/k3rn3lpanicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
