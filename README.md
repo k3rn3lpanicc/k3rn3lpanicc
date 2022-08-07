@@ -1,4 +1,4 @@
-## ⌨️ K3RN3L PAN1C ⌨️
+# ⌨️ K3RN3L PAN1C ⌨️
 
 <h3 align="center">CE Student at Amirkabir University of technology & AI Developer at Roshan-AI</h3>
 
