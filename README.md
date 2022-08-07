@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **matin.ghiasvand1381@gmail.com**
 
-- ⚡ Fun fact **You can import anything as library in python. Don't you believe me? try this random thing : import antigravity **
+- ⚡ Fun fact **You can import anything as library in python. Don't you believe me? try this random thing : import antigravity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
