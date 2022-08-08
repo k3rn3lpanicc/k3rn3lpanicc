@@ -2,7 +2,6 @@
 
 <h3 align="center">CE Student at Amirkabir University of technology & AI Developer at Roshan-AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3rn3lpanicc&label=Profile%20views&color=0e75b6&style=flat" alt="k3rn3lpanicc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc" alt="k3rn3lpanicc" /></a> </p>
 
