@@ -1,6 +1,6 @@
 # ⌨️ K3RN3L PAN1C ⌨️
 
-<h3 align="center">CE Student at Amirkabir University of technology & AI Developer at <a href = "https://www.roshan-ai.ir/">Roshan-AI</a></h3>
+<h3 align="center">CE Student at Amirkabir University of technology & AI Developer at <a href = "https://www.roshan-ai.ir/">Roshan-ai</a></h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc" alt="k3rn3lpanicc" /></a> </p>
