@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **You compile a compiler with a compiler, and compile it again with itself to make sure it doesn't have the problems it has**
 
-- 📂 My Resume : <a href = "https://github.com/k3rn3lpanicc/resume/raw/main/resume.pdf">here</a>
+- 📂 <a href = "https://github.com/k3rn3lpanicc/resume/raw/main/resume.pdf">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
