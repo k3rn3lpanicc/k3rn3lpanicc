@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **You compile a compiler with a compiler, and compile it again with itself to make sure it doesn't have the problems it has**
 
+- 📂 My Resume : <a href = "https://github.com/k3rn3lpanicc/resume/raw/main/resume.pdf">here</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matin06948103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matin06948103" height="30" width="40" /></a>
