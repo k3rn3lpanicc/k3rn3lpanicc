@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Distributed Programming Platform(layer0)**
 
-- 🌱 I’m currently learning **Rust, JavaScript**
+- 🌱 I’m currently learning **Rust, Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/k3rn3lpanicc](https://github.com/k3rn3lpanicc)
 
