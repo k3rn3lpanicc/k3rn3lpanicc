@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc" alt="k3rn3lpanicc" /></a> </p>
 
-- 🔭 I’m currently working on **Distributed Programming Platform(layer0)**
+- 🔭 I’m currently working on **Casper Smart-Contract Development (Droplinked project)**
 
-- 🌱 I’m currently learning **Rust, Go**
+- 🌱 I’m currently learning **Rust, Go, JS & TS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/k3rn3lpanicc](https://github.com/k3rn3lpanicc)
 
