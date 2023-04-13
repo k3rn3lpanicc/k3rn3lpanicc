@@ -30,4 +30,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3rn3lpanicc&langs_count=10&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=k3rn3lpanicc&theme=react-dark)
