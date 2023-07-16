@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web3 Projects (on multiple chains)**
 
-- 🌱 I’m currently learning **Rust, TS, NestJs**
+- 🌱 I’m currently learning **NestJs, Solidity & ChainLink**
 
 - 👨‍💻 All of my projects are available at [https://github.com/k3rn3lpanicc](https://github.com/k3rn3lpanicc)
 
