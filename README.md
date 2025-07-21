@@ -3,7 +3,7 @@
 <h3 align="center">CE Student at <a href = "https://aut.ac.ir">Amirkabir University of technology</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc" alt="k3rn3lpanicc" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Web3 Projects (on multiple chains)**
 
