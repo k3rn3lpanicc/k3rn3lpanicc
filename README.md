@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k3rn3lpanicc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Web3 Projects (on multiple chains)**
+- 🔭 I’m currently working on **Web3 & Backend Projects**
 
-- 🌱 I’m currently learning **Web3 Extention Development on Chrome**
+- 🌱 I’m currently learning **Best practices in NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/k3rn3lpanicc](https://github.com/k3rn3lpanicc)
 
